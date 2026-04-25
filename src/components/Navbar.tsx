@@ -9,7 +9,7 @@ const Navbar = () => {
         </a>
         <div className="hidden md:flex items-center gap-8 text-sm font-medium uppercase tracking-wider">
           <a href="#produits" className="text-muted-foreground hover:text-primary transition-colors">Produits</a>
-          <a href="#cibles" className="text-muted-foreground hover:text-primary transition-colors">Pour qui</a>
+          
           <a href="#process" className="text-muted-foreground hover:text-primary transition-colors">Comment</a>
           <a href="#contact" className="text-muted-foreground hover:text-primary transition-colors">Contact</a>
         </div>
